@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "ths is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "TuanAnh@MSI",
+    "MINGW64",
+    "/e/Coursera/react/mooc",
+    "1/git",
+    "test",
+    "(master)"
+  ],
+  "author": "It only covers the most common items, and tries to guess sensible defaults.",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
